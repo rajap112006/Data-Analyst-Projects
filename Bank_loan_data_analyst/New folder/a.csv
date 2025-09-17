@@ -1,0 +1,10 @@
+credit_history,loan_status,total_applications
+1,Rejected,12083
+1,Approved,10738
+0,Rejected,6891
+0,Approved,6302
+-1,Approved,907
+-1,pending,104
+1,pending,1180
+-1,Rejected,1051
+0,pending,744
